@@ -39,6 +39,10 @@
         label: 'LinkedIn',
         link: 'https://www.linkedin.com/in/devparapalli/'
       },
+      {
+        label: 'Instagram',
+        link: 'https://www.instagram.com/dev_parapalli/'
+      },
     ],
     skills: [
       'Python',
@@ -61,11 +65,42 @@
       {
         jobTitle: 'Technical Team Member',
         startDate: 'Dec 2021',
-        endDate: 'Current',
+        endDate: 'Sept 2022',
         employer: 'Adhyaaya\'22',
         city: 'Nagpur, MH',
         achievements: [
           'Wrote and maintained the business logic behind the website (adhyaaya.org).',
+        ]
+      },
+      {
+        jobTitle: 'Technical Head',
+        startDate: 'Sept 2022',
+        endDate: 'Current',
+        employer: 'Adhyaaya\'23',
+        city: 'Nagpur, MH',
+        achievements: [
+          'Leading the technical team of Adhyaaya\'23.',
+        ]
+      },
+      {
+        jobTitle: 'IIC Co-Head',
+        startDate: 'Sept 2022',
+        endDate: 'Current',
+        employer: 'IIC 5.0 @ GCOEN',
+        city: 'Nagpur, MH',
+        achievements: [
+          'Leading the IIC team of GCOEN.',
+        ]
+      },
+
+      {
+        jobTitle: 'GDSC Technical Head',
+        startDate: 'Sept 2022',
+        endDate: 'Current',
+        employer: 'GDSC @ GCOEN',
+        city: 'Nagpur, MH',
+        achievements: [
+          'Organizing events and spreading the word about Google Developer Student Clubs.',
         ]
       },
     ],
